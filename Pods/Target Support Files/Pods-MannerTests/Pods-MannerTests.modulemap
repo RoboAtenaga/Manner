@@ -1,0 +1,6 @@
+framework module Pods_MannerTests {
+  umbrella header "Pods-MannerTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
